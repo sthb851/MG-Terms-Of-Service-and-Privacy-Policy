@@ -89,18 +89,48 @@ The bot has been updated to support a new `/modlog` command. Once this command i
 :lock: **Important Note for Private Channels:**
 If the modlog channel is private (e.g. staff-only or admin logs), server admins must **manually give the bot's role access** to that channel and ensure the following **permissions are enabled**:
 
-✅ View Channel 
-✅ Send Messages 
-✅ Send Messages in Threads 
-✅ Embed Links 
-✅ Attach Files
+---
 
-This ensures the bot can deliver update messages properly in your server.
+## 9.  📜 Required Bot Permissions
 
+To ensure proper functionality across all servers, the NIKKE-CO-OP bot requires the following permissions. These are essential for core features like co-op session creation, chart displays, interaction buttons, and modlog updates.
+
+
+#### **Core Messaging Permissions**
+
+* ✅ **View Channel** — Allows the bot to see channels and their messages
+* ✅ **Send Messages** — Enables the bot to post co-op sessions, updates, and interactions
+* ✅ **Send Messages in Threads** — Supports threaded conversations and organized discussions
+* ✅ **Embed Links** — Required for displaying rich embed content (e.g., co-op sessions, updates)
+* ✅ **Attach Files** — Needed for sharing generated images such as charts
+
+
+#### **Thread Management**
+
+* ✅ **Create Public Threads** — Organizes session discussions publicly
+* ✅ **Create Private Threads** — Supports private or team-specific coordination
+* ✅ **Manage Threads** — Lets the bot maintain and clean up thread activity
+
+
+#### **Moderation**
+
+* ✅ **Manage Messages** — Allows the bot to clean up messages (if necessary)
+* ✅ **Read Message History** — Ensures the bot can access past messages for buttons, logs, or persistent updates
+
+
+These permissions are vital for:
+
+* Co-op session creation and real-time updates
+* Embedded damage charts and interactive join/leave buttons
+* Server-wide update announcements using `/modlog`
+* Smooth and visually consistent user experience
+
+If the modlog channel is private, server admins **must manually add the bot’s role** to the channel and **grant these permissions** to ensure all updates are delivered correctly.
 
 ---
 
-## 9. 🌍 Supported Regions
+
+## 10. 🌍 Supported Regions
 
 * 🇺🇸 NA – North America
 * 🌍 GLOBAL – Global
