@@ -89,16 +89,11 @@ The bot has been updated to support a new `/modlog` command. Once this command i
 :lock: **Important Note for Private Channels:**
 If the modlog channel is private (e.g. staff-only or admin logs), server admins must **manually give the bot's role access** to that channel and ensure the following **permissions are enabled**:
 
-:white_check_mark: View Channel
-:white_check_mark: Send Messages
-:white_check_mark: Send Messages in Threads
-:white_check_mark: Create Public Threads
-:white_check_mark: Create Private Threads
-:white_check_mark: Manage Messages
-:white_check_mark: Manage Threads
-:white_check_mark: Embed Links
-:white_check_mark: Attach Files
-:white_check_mark: Read Message History
+✅ View Channel 
+✅ Send Messages 
+✅ Send Messages in Threads 
+✅ Embed Links 
+✅ Attach Files
 
 This ensures the bot can deliver update messages properly in your server.
 
