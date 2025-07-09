@@ -82,7 +82,7 @@ If you need help, want to suggest features, or wish to report a bug:
 
 ---
 
-## 8.  `/modlog` Command!**
+## 8.  `/modlog` Command!
 
 The bot has been updated to support a new `/modlog` command. Once this command is configured in a server, the bot will **automatically send all future update announcements** to the selected channel whenever a new update is released.
 
