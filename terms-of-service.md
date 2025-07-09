@@ -82,7 +82,30 @@ If you need help, want to suggest features, or wish to report a bug:
 
 ---
 
-## 8. 🌍 Supported Regions
+## 8.  `/modlog` Command!**
+
+The bot has been updated to support a new `/modlog` command. Once this command is configured in a server, the bot will **automatically send all future update announcements** to the selected channel whenever a new update is released.
+
+:lock: **Important Note for Private Channels:**
+If the modlog channel is private (e.g. staff-only or admin logs), server admins must **manually give the bot's role access** to that channel and ensure the following **permissions are enabled**:
+
+:white_check_mark: View Channel
+:white_check_mark: Send Messages
+:white_check_mark: Send Messages in Threads
+:white_check_mark: Create Public Threads
+:white_check_mark: Create Private Threads
+:white_check_mark: Manage Messages
+:white_check_mark: Manage Threads
+:white_check_mark: Embed Links
+:white_check_mark: Attach Files
+:white_check_mark: Read Message History
+
+This ensures the bot can deliver update messages properly in your server.
+
+
+---
+
+## 9. 🌍 Supported Regions
 
 * 🇺🇸 NA – North America
 * 🌍 GLOBAL – Global
