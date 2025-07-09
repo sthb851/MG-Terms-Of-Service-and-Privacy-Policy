@@ -107,7 +107,7 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 * 🎨 Visual Team Boards - Professional charts showing team progress
 * ⏰ Smart Cooldowns - 2-hour cooldown per region prevents spam
 * 🌍 Multi-Region - Support for all Nikke server regions
-*👥 Team Management - Easy join/leave with button clicks
+* 👥 Team Management - Easy join/leave with button clicks
 
 ---
 
