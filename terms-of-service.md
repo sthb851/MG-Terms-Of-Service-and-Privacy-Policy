@@ -96,12 +96,13 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 
 ## 9. 📋 How Co-Op Matching Works
 
-1️⃣ Use /co_op and select your region
-2️⃣ A visual team board appears with 5 slots
-3️⃣ Players click Join Co-Op to join your team
-4️⃣ When full (5 players), click More Co-Op for additional teams
-5️⃣ Use Leave button if you need to drop out
-6️⃣ Use Enter Co-Op Code to share game codes
+* Use /co_op and select your region
+* A visual team board appears with 5 slots
+* Players click Join Co-Op to join your team
+* When full (5 players), click More Co-Op for additional teams
+* Use Leave button if you need to drop out
+* Use Enter Co-Op Code to share game codes
+
 ✨ Features
 🎨 Visual Team Boards - Professional charts showing team progress
 ⏰ Smart Cooldowns - 2-hour cooldown per region prevents spam
