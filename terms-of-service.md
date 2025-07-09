@@ -94,7 +94,23 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 
 ---
 
-## 9.  📜 Required Bot Permissions
+## 9. 📋 How Co-Op Matching Works
+
+1️⃣ Use /co_op and select your region
+2️⃣ A visual team board appears with 5 slots
+3️⃣ Players click Join Co-Op to join your team
+4️⃣ When full (5 players), click More Co-Op for additional teams
+5️⃣ Use Leave button if you need to drop out
+6️⃣ Use Enter Co-Op Code to share game codes
+✨ Features
+🎨 Visual Team Boards - Professional charts showing team progress
+⏰ Smart Cooldowns - 2-hour cooldown per region prevents spam
+🌍 Multi-Region - Support for all Nikke server regions
+👥 Team Management - Easy join/leave with button clicks
+
+---
+
+## 10.  📜 Required Bot Permissions
 
 To ensure proper functionality across all servers, the NIKKE-CO-OP bot requires the following permissions. These are essential for core features like co-op session creation, chart displays, interaction buttons, and modlog updates.
 
@@ -133,7 +149,7 @@ If the modlog channel is private, server admins **must manually add the bot’s 
 ---
 
 
-## 10. 🌍 Supported Regions
+## 11. 🌍 Supported Regions
 
 * 🇺🇸 NA – North America
 * 🌍 GLOBAL – Global
