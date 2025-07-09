@@ -65,6 +65,9 @@ If you need help, want to suggest features, or wish to report a bug:
 ➡️ Join the **Official Support Server**:
 [https://discord.gg/QsKByDNdxt](https://discord.gg/QsKByDNdxt)
 
+➡️ Bot Link
+https://shorturl.at/yG5t8
+
 ---
 
 ## 7. 📚 Quick Summary of Commands
