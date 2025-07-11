@@ -53,7 +53,7 @@ Server admins are encouraged to monitor bot usage and report repeated abuse.
 
 ---
 
-## 5. 🛡️ Anti-Spam Protection** 
+## 5. 🛡️ Anti-Spam Protection
 
 A new anti-spam system to the Co-Op bot to stop command abuse and protect server resources (especially since we’re on Railway). 
 
