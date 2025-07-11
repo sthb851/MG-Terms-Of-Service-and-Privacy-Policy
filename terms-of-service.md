@@ -58,25 +58,14 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 
 ---
 
-## 6. 📞 Contact & Support.
-
-If you need help, want to suggest features, or wish to report a bug:
-
-➡️ Join the **Official Support Server**:
-[https://discord.gg/QsKByDNdxt](https://discord.gg/QsKByDNdxt)
-
-➡️ Bot Link
-https://shorturl.at/yG5t8
-
----
-
-## 7. 📚 Quick Summary of Commands.
+## 6. 📚 Quick Summary of Commands.
 
 ### 👑 Admin Commands:
 
 * `/co_op_setup` – Configure co-op channels and roles.
 * `/co_op_config` – View your current configuration.
-* `/clear_cooldowns` – Clear all cooldowns (for testing).
+* `/clear_cooldown region:NA`** – Clears cooldown **only** for the specified region (e.g., NA).
+* `/clear_cooldown`** – Clears **all** active region cooldowns globally.
 
 ### 🎮 Player Commands:
 
@@ -85,7 +74,7 @@ https://shorturl.at/yG5t8
 
 ---
 
-## 8.  `/modlog` Command!
+## 7.  `/modlog` Command!
 
 The bot has been updated to support a new `/modlog` command. Once this command is configured in a server, the bot will **automatically send all future update announcements** to the selected channel whenever a new update is released.
 
@@ -94,7 +83,7 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 
 ---
 
-## 9. 📋 How Co-Op Matching Works.
+## 8. 📋 How Co-Op Matching Works.
 
 * Use /co_op and select your region.
 * A visual team board appears with 5 slots.
@@ -108,6 +97,27 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 * ⏰ Smart Cooldowns - 2-hour cooldown per region prevents spam.
 * 🌍 Multi-Region - Support for all Nikke server regions.
 * 👥 Team Management - Easy join/leave with button clicks.
+
+---
+
+## 9. 🚨 New Command: `/report_error`
+
+You can now report bugs or issues **directly** from any server where the bot is active!
+
+**Why it's helpful:**
+
+* ✅ Works in any server where the bot is added
+* ✅ Easy-to-use form to describe the issue
+* ✅ Reports go straight to the developer (no DMs needed)
+* ✅ Instant confirmation once submitted
+
+**How to use:**
+
+1. Type `/report_error`
+2. Fill in the form with your issue
+3. Submit — done!
+
+This helps us fix problems faster and keep the bot running smoothly for everyone.
 
 ---
 
@@ -157,6 +167,18 @@ If the modlog channel is private, server admins **must manually add the bot’s 
 * 🇯🇵 JAPAN – Japan.
 * 🌏 SEA – Southeast Asia.
 * 🇰🇷 KOREA – Korea.
+
+---
+
+## 12. 📞 Contact & Support.
+
+If you need help, want to suggest features, or wish to report a bug:
+
+➡️ Join the **Official Support Server**:
+[https://discord.gg/QsKByDNdxt](https://discord.gg/QsKByDNdxt)
+
+➡️ Bot Link
+https://shorturl.at/yG5t8
 
 ---
 
