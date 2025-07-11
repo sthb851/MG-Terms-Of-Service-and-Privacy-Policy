@@ -50,15 +50,43 @@ To ensure a positive experience for all users:
 
 Server admins are encouraged to monitor bot usage and report repeated abuse.
 
+
 ---
 
-## 5. 🔄 Updates & Changes.
+## 5. 🛡️ Anti-Spam Protection** 
+
+A new anti-spam system to the Co-Op bot to stop command abuse and protect server resources (especially since we’re on Railway). 
+
+**Here’s how it works:**
+
+* If someone uses `/co_op` **5 times in 5 minutes**, the bot sees it as spam and applies a timeout.
+* **Timeouts increase with repeated abuse**:
+
+  * 1st: 6 hours
+  * 2nd: 24 hours
+  * 3rd: 48 hours
+
+**Important notes:**
+
+* Normal users won’t be affected unless they spam.
+* Admins **aren’t exempt**  it’s fair for everyone. 
+* It only tracks the `/co_op` command (not buttons).
+* Works alongside the region cooldown system.
+* Automatically resets old data and gives helpful tips when needed.
+
+**Goal:**
+To keep things smooth for legit users while blocking spammers automatically.
+
+
+---
+
+## 6. 🔄 Updates & Changes.
 
 Nikke Co-op Bot may receive new features or behavior changes over time. Continued usage after updates implies acceptance of the revised Terms of Service. Any major updates will be announced in the official support server.
 
 ---
 
-## 6. 📚 Quick Summary of Commands.
+## 7. 📚 Quick Summary of Commands.
 
 ### 👑 Admin Commands:
 
@@ -74,7 +102,7 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 
 ---
 
-## 7.  `/modlog` Command!
+## 8.  `/modlog` Command!
 
 The bot has been updated to support a new `/modlog` command. Once this command is configured in a server, the bot will **automatically send all future update announcements** to the selected channel whenever a new update is released.
 
@@ -83,7 +111,7 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 
 ---
 
-## 8. 📋 How Co-Op Matching Works.
+## 9. 📋 How Co-Op Matching Works.
 
 * Use /co_op and select your region.
 * A visual team board appears with 5 slots.
@@ -100,7 +128,7 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 
 ---
 
-## 9. 🚨 New Command: `/report_error`
+## 10. 🚨 New Command: `/report_error`
 
 You can now report bugs or issues **directly** from any server where the bot is active!
 
@@ -121,7 +149,7 @@ This helps us fix problems faster and keep the bot running smoothly for everyone
 
 ---
 
-## 10.  📜 Required Bot Permissions.
+## 11.  📜 Required Bot Permissions.
 
 To ensure proper functionality across all servers, the NIKKE-CO-OP bot requires the following permissions. These are essential for core features like co-op session creation, chart displays, interaction buttons, and modlog updates.
 
@@ -160,7 +188,7 @@ If the modlog channel is private, server admins **must manually add the bot’s 
 ---
 
 
-## 11. 🌍 Supported Regions
+## 12. 🌍 Supported Regions
 
 * 🇺🇸 NA – North America.
 * 🌍 GLOBAL – Global.
@@ -170,7 +198,7 @@ If the modlog channel is private, server admins **must manually add the bot’s 
 
 ---
 
-## 12. 📞 Contact & Support.
+## 13. 📞 Contact & Support.
 
 If you need help, want to suggest features, or wish to report a bug:
 
