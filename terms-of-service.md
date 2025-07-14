@@ -99,8 +99,7 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 * `/bot_stats` - View bot statistics
 * `/co_op` – Start a co-op session by selecting your region.
 * `/help` – View all available bot commands.
-* `/report_error` – Report an issues if any happens.
-
+* `/report_error` – Report persistent bot errors.
 ---
 
 ## 8.  `/modlog` Command!
