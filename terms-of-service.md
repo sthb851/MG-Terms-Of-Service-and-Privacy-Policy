@@ -94,6 +94,7 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 * `/co_op_config` – View your current configuration.
 * `/clear_cooldown region:NA`** – Clears cooldown **only** for the specified region (e.g., NA).
 * `/clear_cooldown`** – Clears **all** active region cooldowns globally.
+* `/modlog` - Set up update notifications channel
 * `/bot_stats` - View bot statistics
 
 ### 🎮 Player Commands:
