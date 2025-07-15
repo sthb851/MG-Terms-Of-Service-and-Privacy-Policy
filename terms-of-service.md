@@ -94,9 +94,9 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 * `/co_op_config` – View your current configuration.
 * `/clear_cooldown region:NA`** – Clears cooldown **only** for the specified region (e.g., NA).
 * `/clear_cooldown`** – Clears **all** active region cooldowns globally.
+* `/bot_stats` - View bot statistics
 
 ### 🎮 Player Commands:
-* `/bot_stats` - View bot statistics
 * `/co_op` – Start a co-op session by selecting your region.
 * `/help` – View all available bot commands.
 * `/report_error` – Report persistent bot errors.
@@ -133,17 +133,21 @@ If the modlog channel is private (e.g. staff-only or admin logs), server admins 
 You can now report bugs or issues **directly** from any server where the bot is active!
 
 **Why it's helpful:**
-
 * ✅ Works in any server where the bot is added
 * ✅ Easy-to-use form to describe the issue
 * ✅ Reports go straight to the developer (no DMs needed)
 * ✅ Instant confirmation once submitted
 
 **How to use:**
-
 1. Type `/report_error`
 2. Fill in the form with your issue
 3. Submit — done!
+
+**More info**
+* ✅ Opens a structured form to report issues
+* ✅ Includes topic, description, and additional info fields
+* ✅ Server-wide 24-hour cooldown to prevent spam
+* ✅ Reports sent directly to (ME) Professor_Ashe for fixing
 
 This helps us fix problems faster and keep the bot running smoothly for everyone.
 
