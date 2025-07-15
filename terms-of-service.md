@@ -92,8 +92,8 @@ Nikke Co-op Bot may receive new features or behavior changes over time. Continue
 
 * `/co_op_setup` – Configure co-op channels and roles.
 * `/co_op_config` – View your current configuration.
-* `/clear_cooldown region:NA`** – Clears cooldown **only** for the specified region (e.g., NA).
-* `/clear_cooldown`** – Clears **all** active region cooldowns globally.
+* `/clear_cooldown region:NA` – Clears cooldown **only** for the specified region (e.g., NA).
+* `/clear_cooldown` – Clears **all** active region cooldowns globally.
 * `/modlog` - Set up update notifications channel
 * `/bot_stats` - View bot statistics
 
@@ -191,7 +191,6 @@ These permissions are vital for:
 If the modlog channel is private, server admins **must manually add the bot’s role** to the channel and **grant these permissions** to ensure all updates are delivered correctly.
 
 ---
-
 
 ## 12. 🌍 Supported Regions
 
