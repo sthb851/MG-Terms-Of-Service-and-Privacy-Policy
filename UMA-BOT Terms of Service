@@ -8,30 +8,30 @@ Welcome to UMA Bot! By using this bot in your server, you agree to follow the ru
 
 ### 👥 User Eligibility
 
-* You must be **13 years or older** to use this bot, in accordance with [Discord’s Terms of Service](https://discord.com/terms).
-* By using UMA Bot, you confirm that you meet this requirement.
+- You must be **13 years or older** to use this bot, in accordance with [Discord’s Terms of Service](https://discord.com/terms).
+- By using UMA Bot, you confirm that you meet this requirement.
 
 ### 📌 Respect for Users
 
-* Users may not be familiar with complex multi-section servers. Please be patient and kind when interacting with others.
-* No harassment, spamming, or disruptive behavior is tolerated.
+- Users may not be familiar with complex multi-section servers. Please be patient and kind when interacting with others.
+- No harassment, spamming, or disruptive behavior is tolerated.
 
 ### ⚖️ Fair Usage
 
-* Do not exploit, abuse, or attempt to break the bot’s features.
-* Users should only use commands for their intended purpose.
+- Do not exploit, abuse, or attempt to break the bot’s features.
+- Users should only use commands for their intended purpose.
 
 ### 🔒 Data Handling
 
-* UMA Bot stores **only 3 scores per user** for each competition type.
-* When a **4th score** is added, the **oldest score (your first one)** is automatically deleted.
-* This means the bot always compares and displays only your **latest 3 scores**.
-* The bot does **not** collect personal or sensitive information beyond what is required for its functionality.
+- UMA Bot stores **only 3 scores per user** for each competition type.
+- When a **4th score** is added, the **oldest score (your first one)** is automatically deleted.
+- This means the bot always compares and displays only your **latest 3 scores**.
+- The bot does **not** collect personal or sensitive information beyond what is required for its functionality.
 
 ### 🚫 Greed & Multiple Accounts
 
-* Creating multiple accounts or abusing the bot with duplicate IDs is prohibited.
-* Be fair to others; your scores and records should reflect honest gameplay.
+- Creating multiple accounts or abusing the bot with duplicate IDs is prohibited.
+- Be fair to others; your scores and records should reflect honest gameplay.
 
 ---
 
@@ -40,29 +40,24 @@ Welcome to UMA Bot! By using this bot in your server, you agree to follow the ru
 ### 2.1 Available Commands (Global – Visible in All Servers)
 
 #### 👥 **Public Commands (All Users):**
-
-* `/my_score mini_cup` → View your personal Mini Cup score history and performance with visual cards.
-* `/set_my_score-mini-cup` → Set your Mini Cup score individually (2–7 digits).
+- `/my_score mini_cup` → View your personal Mini Cup score history and performance with visual cards.
+- `/set_my_score-mini-cup` → Set your Mini Cup score individually (2–7 digits).
 
 #### ⚙️ **Admin Commands (Server Admins Only):**
-
-* `/admin_role @role` → Set the admin role for bot commands.
-* `/show_admin_role` → Show the current admin role.
-* `/set_news_channel #channel` → Set channel for bot news and updates.
-* `/score_setup #channel` → Configure channel where score commands can be used.
+- `/admin_role @role` → Set the admin role for bot commands.
+- `/show_admin_role` → Show the current admin role.
+- `/set_news_channel #channel` → Set channel for bot news and updates.
+- `/score_setup #channel` → Configure channel where score commands can be used.
 
 #### 🔧 **Bot Features:**
-
-* **Score Tracking:** The bot saves only the **last 3 scores per user**.
-
-  * When you add a 4th score, your oldest score is automatically deleted.
-  * The bot always compares your **most recent 3 scores only**.
-* **Visual Graphics:** Auto-generates score cards and player statistics.
-* **Rankings System:** Real-time leaderboards and competitive rankings.
-* **Persistent Data:** All scores and statistics (limited to 3 per user) are saved automatically.
+- **Score Tracking:** The bot saves only the **last 3 scores per user**.
+    - When you add a 4th score, your oldest score is automatically deleted.
+    - The bot always compares your **most recent 3 scores only**.
+- **Visual Graphics:** Auto-generates score cards and player statistics.
+- **Rankings System:** Real-time leaderboards and competitive rankings.
+- **Persistent Data:** All scores and statistics (limited to 3 per user) are saved automatically.
 
 #### 📝 **Note:**
-
 Additional tournament commands (`/start_mini-cup`, `/clubs_vs_club`, etc.) are available only in the bot owner’s main server. The commands above are the global core features.
 
 ---
@@ -70,27 +65,22 @@ Additional tournament commands (`/start_mini-cup`, `/clubs_vs_club`, etc.) are a
 ### 2.2 Bot Setup Instructions
 
 #### **Step 1: Invite the Bot**
-
-1. BOT LINK https://shorturl.at/FWA27
+1. [Invite UMA Bot](https://shorturl.at/FWA27)
 2. Grant the bot necessary permissions (Send Messages, Embed Links, Attach Files).
 
 #### **Step 2: Configure Admin Role**
-
 ```
 /admin_role @YourAdminRole
 ```
-
 This sets which role can use admin commands.
 
 #### **Step 3: Set Up Channels (Optional)**
-
 ```
 /score_setup #uma-scores        # Channel for /my_score usage
 /set_news_channel #bot-updates  # Channel for bot announcements
 ```
 
 #### **Step 4: Using the Bot**
-
 1. Players use `/set_my_score-mini-cup` to add their scores.
 2. Players view stats with `/my_score mini_cup`.
 3. Admins can check server role setup with `/show_admin_role`.
@@ -100,9 +90,9 @@ This sets which role can use admin commands.
 
 ## 3. Violations & Consequences
 
-* **First Violation:** Verbal warning.
-* **Repeated Violations:** Temporary blacklist from bot commands.
-* **Severe or Continuous Abuse:** Permanent blacklist and/or report to server admins.
+- **First Violation:** Verbal warning.
+- **Repeated Violations:** Temporary blacklist from bot commands.
+- **Severe or Continuous Abuse:** Permanent blacklist and/or report to server admins.
 
 The bot owner reserves the right to take necessary action if the terms are violated.
 
@@ -110,13 +100,11 @@ The bot owner reserves the right to take necessary action if the terms are viola
 
 ## 4. Disclaimer
 
-* The bot is provided **as-is**, without warranties.
-* The owner reserves the right to update, add, or remove features at any time.
-* By using UMA Bot, you accept these rules and agree to follow them.
+- The bot is provided **as-is**, without warranties.
+- The owner reserves the right to update, add, or remove features at any time.
+- By using UMA Bot, you accept these rules and agree to follow them.
 
 ---
 
-✨ Much love and stay safe,
-** PROF\_ASHE**
-
----
+✨ Much love and stay safe,  
+**PROF\_ASHE**
