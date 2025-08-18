@@ -1,0 +1,134 @@
+
+
+# Terms of Service - MG-UMA Bot
+
+---
+
+## 1. ACCEPTANCE OF TERMS
+
+By adding MG-UMA Bot to your Discord server or using any of its features, you agree to be bound by these Terms of Service ("Terms"). If you do not agree, you may not use the Bot.
+
+---
+
+## 2. DESCRIPTION OF SERVICE
+
+MG-UMA Bot ("the Bot") is a Discord application designed for Uma Musume gaming communities. The Bot provides the following services:
+
+* Tournament and competition management
+* Personal score tracking and history
+* Club vs Club competitions
+* Score visualization and leaderboards
+* Gaming statistics and analytics
+
+---
+
+### 2.1 Available Commands (Global - Visible in All Servers)
+
+#### **👥 PUBLIC COMMANDS (All Users):**
+
+* **`/my_score mini_cup`** – View your personal Mini Cup score history and performance with visual cards
+* **`/set_my_score-mini-cup`** – Set your Mini Cup score individually (2–7 digits)
+
+#### **⚙️ ADMIN COMMANDS (Server Admins Only):**
+
+* **`/admin_role @role`** – Set the admin role for bot commands
+* **`/show_admin_role`** – Show the current admin role
+* **`/set_news_channel #channel`** – Set the channel for bot news and updates
+* **`/score_setup #channel`** – Configure the channel where score commands can be used
+
+#### **🔧 BOT FEATURES:**
+
+* **Score Tracking:** Maintains the last 3 scores per user per competition type
+* **Visual Graphics:** Auto-generates score cards and player statistics
+* **Rankings System:** Provides real-time leaderboards and competitive rankings
+* **Persistent Data:** Saves all scores and statistics permanently
+
+#### **📝 NOTE:**
+
+Additional tournament commands (e.g., `/start_mini-cup`, `/clubs_vs_club`, etc.) are **available only in the bot owner’s main server**. The commands listed above are the **core functionality available globally across all servers**.
+
+---
+
+### 2.2 Bot Setup Instructions
+
+#### **STEP 1: Invite the Bot**
+
+1. BOT_LINK https://shorturl.at/FWA27
+3. Grant the bot necessary permissions (Send Messages, Embed Links, Attach Files)
+
+#### **STEP 2: Configure Admin Role**
+
+```
+/admin_role @YourAdminRole
+```
+
+Sets which role can use admin commands.
+
+#### **STEP 3: Set Up Channels (Optional)**
+
+```
+/score_setup #uma-scores        # Channel for /my_score usage
+/set_news_channel #bot-updates  # Channel for bot announcements
+```
+
+#### **STEP 4: Using the Bot**
+
+1. **Players use** `/set_my_score-mini-cup` to add their scores
+2. **Players view stats** using `/my_score mini_cup`
+3. **Admins check** role setup with `/show_admin_role`
+4. **Enjoy score tracking** and performance cards!
+
+#### **📝 Tournament Features:**
+
+Advanced tournament commands are available in the bot owner’s main server. Contact the owner for full access.
+
+---
+
+## 3. USER RESPONSIBILITIES
+
+* Users are responsible for ensuring that their submitted scores are accurate.
+* Users must not attempt to exploit or abuse the Bot’s features.
+* Users acknowledge that the Bot stores only the **last 3 scores per competition type**; older scores are automatically deleted.
+* Admins are responsible for proper setup of roles and channels.
+
+---
+
+## 4. DATA STORAGE & PRIVACY
+
+* The Bot stores Discord IDs, usernames, and user-submitted scores for functionality.
+* No sensitive personal data outside of Discord IDs and scores is collected.
+* Data is stored securely and is not shared with third parties.
+* By using the Bot, you consent to this data being stored and processed.
+
+---
+
+## 5. AVAILABILITY & LIMITATIONS
+
+* The Bot is provided **as-is**, with no guarantee of uptime or error-free operation.
+* Global commands are supported in all servers where the Bot is added.
+* Advanced tournament features are **exclusive to the bot owner’s main server**.
+* The Bot may be updated, modified, or discontinued at any time.
+
+---
+
+## 6. LIMITATION OF LIABILITY
+
+The Bot owner is not responsible for:
+
+* Any loss of data caused by user error or system errors
+* Misuse of the Bot’s features by server admins or members
+* Interruptions, bugs, or unexpected behavior of the Bot
+
+---
+
+## 7. TERMINATION
+
+The Bot owner reserves the right to remove or block access to the Bot for any user or server that violates these Terms.
+
+---
+
+## 8. CONTACT https://discord.gg/QsKByDNdxt 
+
+For questions, support, or access to full tournament features, please contact ME @PROFESSEOR ASHE in discord.
+
+
