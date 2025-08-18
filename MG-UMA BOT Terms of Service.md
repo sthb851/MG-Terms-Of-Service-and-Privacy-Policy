@@ -44,10 +44,9 @@ Welcome to UMA Bot! By using this bot in your server, you agree to follow the ru
 - `/set_my_score-mini-cup` → Set your Mini Cup score individually (2–7 digits).
 
 #### ⚙️ **Admin Commands (Server Admins Only):**
-- `/admin_role @role` → Set the admin role for bot commands.
-- `/show_admin_role` → Show the current admin role.
-- `/set_news_channel #channel` → Set channel for bot news and updates.
-- `/score_setup #channel` → Configure channel where score commands can be used.
+#### **⚙️ ADMIN COMMANDS (Server Admins Only):**
+- **`/admin_manager`** - All-in-one admin panel for bot configuration and leaderboard management.
+- **`/leaderboard`** - view the global top 10 mini cup players with rankings and characters. 
 
 #### 🔧 **Bot Features:**
 - **Score Tracking:** The bot saves only the **last 3 scores per user**.
