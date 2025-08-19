@@ -76,8 +76,7 @@ Additional tournament commands (`/start_mini-cup`, `/clubs_vs_club`, etc.) are a
 #### **Step 4: Using the Bot**
 1. Players use `/set_my_score-mini-cup` to add their scores.
 2. Players view stats with `/my_score mini_cup`.
-3. Admins can check server role setup with `/show_admin_role`.
-4. Enjoy score tracking and performance cards!
+3. Enjoy score tracking and performance cards!
 
 ---
 
@@ -100,4 +99,4 @@ The bot owner reserves the right to take necessary action if the terms are viola
 ---
 
 ✨ Much love and stay safe,  
-**PROF\_ASHE**
+**PROFESSOR ASHE**
