@@ -1,4 +1,4 @@
-# 🔒 Privacy Policy – MG-UMA Bot
+# 🔒 Privacy Policy – UMA Bot
 
 *Last updated: August 2025 🗓️*
 
