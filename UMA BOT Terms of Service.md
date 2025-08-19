@@ -82,12 +82,68 @@ Additional tournament commands (`/start_mini-cup`, `/clubs_vs_club`, etc.) are a
 
 ## 3. Violations & Consequences
 
-- **First Violation:** Verbal warning.
-- **Repeated Violations:** Temporary blacklist from bot commands.
-- **Severe or Continuous Abuse:** Permanent blacklist and/or report to server admins.
+UMA Bot enforces a strict policy against submitting false or manipulated scores to maintain fair competition and leaderboard integrity. By using UMA Bot, you agree to abide by the following rules and consequences.
 
-The bot owner reserves the right to take necessary action if the terms are violated.
+#### 3.1 Prohibited Actions
 
+The following actions are considered violations of our Terms of Service:
+
+* Submitting artificially inflated scores
+* Submitting scores with suspicious patterns (e.g., repeated digits such as `9999`)
+* Submitting unrealistically high scores (typically 5+ digits)
+* Attempting to manipulate the leaderboard system
+* Excessive command usage (rate limit: 5 uses of the same command within 1 minute)
+
+#### 3.2 Detection System
+
+Our system automatically flags suspicious score submissions, including:
+
+* Scores with 5 or more digits
+* Scores with 4 or more identical digits in sequence
+* Scores with obvious patterns (sequential or alternating)
+* Any score that appears statistically improbable
+
+:warning: Flagged submissions are subject to administrator review before being accepted or denied.
+
+#### 3.3 Progressive Restriction System
+
+Violations of our Terms of Service will result in the following:
+
+* **First Violation:**
+
+  * 1-hour restriction from UMA Bot commands
+  * Full access to all other server features remains available
+  * You will receive a notification explaining the restriction and expiration
+
+* **Second Violation:**
+
+  * 6-hour restriction from UMA Bot commands
+  * Full access to all other server features remains available
+  * You will receive a notification explaining the restriction and expiration
+
+* **Third Violation:**
+
+  * Permanent restriction from UMA Bot commands
+  * Full access to all other server features remains available
+  * You may appeal by contacting a server administrator
+
+#### 3.4 Rate Limiting
+
+To prevent abuse and ensure fair access:
+
+* Using the same command 5+ times within 60 seconds triggers a **1-hour cooldown**
+* During cooldown, that command will be unavailable for you
+* Attempting to use it will display the remaining cooldown time
+
+#### 3.5 Appeals Process
+
+If you believe a restriction was applied in error, you may appeal by:
+
+* Contacting a server administrator via DM
+* Providing your username and approximate time of restriction
+* Explaining why the restriction should be reconsidered
+
+Appeals are reviewed case by case. Final decisions rest with the administration team.
 ---
 
 ## 4. Disclaimer
