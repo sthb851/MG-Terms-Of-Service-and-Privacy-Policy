@@ -65,14 +65,9 @@ Additional tournament commands (`/start_mini-cup`, `/clubs_vs_club`, etc.) are a
 
 #### **Step 1: Invite the Bot**
 1. [Invite UMA Bot](https://shorturl.at/FWA27)
-2. Grant the bot necessary permissions (Send Messages, Embed Links, Attach Files).
+2. Grant the bot necessary permissions (Send Messages, Manage Messages, Embed Links, Attach Files).
 
-#### **Step 2: Configure Admin Role**
 ```
-/admin_role @YourAdminRole
-```
-This sets which role can use admin commands.
-
 #### **Step 3: Set Up Channels (Optional)**
 ```
 /score_setup #uma-scores        # Channel for /my_score usage
