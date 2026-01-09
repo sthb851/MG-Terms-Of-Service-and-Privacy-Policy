@@ -106,6 +106,6 @@ You can report bugs directly from your server!
 If you need help, want to suggest features, or just want to say hi:
 
 ➡️ **Official Support Server:** [Join Here](https://discord.gg/QsKByDNdxt)
-➡️ **Bot Invite:** [Click to Invite]([https://shorturl.at/yG5t8](https://discord.com/oauth2/authorize?client_id=1388805361032495134&permissions=117760&integration_type=0&scope=bot))
+➡️ **Bot Invite:** [Click to Invite]([https://shorturl.at/yG5t8](https://discord.com/oauth2/authorize?client_id=1388805361032495134&permissions=117760&integration_type=0&scope=bot)
 
 Thank you for using the Alice System! Happy Hunting, Commander! 🐰✨
