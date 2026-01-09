@@ -1,70 +1,70 @@
-# 🔒 Nikke Co-op Bot – Privacy Policy
+# 🔒 Alice System – Privacy Policy
 
-Thank you for using the **Nikke Co-op Bot**. This Privacy Policy explains how the bot handles user data and ensures compliance with Discord’s Developer Terms of Service, community guidelines, and best practices.
+Thank you for using the **Alice System** (Nikke Co-op Bot). This Privacy Policy explains how I handle your data to ensure transparency and trust.
 
 ---
 
 ## 1. 📊 Data We Collect
 
-The Nikke Co-op Bot only collects **minimal, non-sensitive information** required for functionality:
+I collect only the **minimal** information needed to function:
 
-* **Discord User IDs** – Used for co-op cooldown tracking and team session management.
-* **Role IDs** – Used to assign and ping region-based roles (NA, Global, Japan, SEA, Korea).
-* **Channel & Message IDs** – Used to display team boards, manage interactions, and send modlog updates.
+*   **Discord User IDs** – To track cooldowns, manage sessions, and remember your last AI topic (e.g., "talking about Red Hood").
+*   **Role IDs** – To handle region pings (NA, Global, etc.).
+*   **Channel & Message IDs** – To manage interactive boards and clean up messages.
+*   **Union Data** – Damage logs you explicitly upload via `/set_blog` for analysis.
+*   **AI Interactions** – When you mention `@Alice`, your message text is processed to generate a response.
 
-👉 **We do not collect or store private messages, emails, passwords, or any sensitive personal data.**
+👉 **I do NOT collect or store private messages, emails, passwords, or any sensitive personal data.**
 
 ---
 
 ## 2. 🗄️ Data Storage
 
-* Data is stored **temporarily** and only for the purpose of bot features (e.g., cooldowns, team boards, reports).
-* Old or unused data is automatically **reset or deleted** to prevent unnecessary storage.
-* No data is shared, sold, or used outside the bot’s intended purpose.
+*   **Temporary Data:** Most data (like cooldowns and AI conversation context) is stored in temporary memory and resets if the bot restarts.
+*   **Persistent Data:** Union damage logs and server settings are stored in a secure database hosted on **Railway**.
+*   **AI Data:** Your questions to `@Alice` are processed in real-time. We do not permanently archive your chat history.
 
 ---
 
-## 3. 📤 Data Sharing
+## 3. 📤 Data Sharing & Third Parties
 
-The bot **does not share your data** with third parties.
-Data may only be shared if required by:
+I do not sell your data. However, to provide my services, I interact with these trusted third-party providers:
 
-* Discord (to comply with their API rules)
-* Legal obligations (rare, but if requested by law)
-
-Otherwise, all user and server data stays private.
+*   **Discord:** To send and receive messages (standard bot functionality).
+*   **Railway:** Hosting provider where the bot and database live.
+*   **Google (Gemini AI):** When you ask `@Alice` a question, your query text is sent to Google's Generative AI API for processing.
+    *   *Note: Google may retain data for a limited time to improve their services, subject to their own Privacy Policy.*
 
 ---
 
 ## 4. 🔐 User Control
 
 You have the right to:
-
-* Request deletion of your data (contact the developer via the support server).
-* Stop using the bot at any time, which ends all future data collection.
-* Remove the bot from your server if you no longer want it to function.
+*   **Request Deletion:** Ask to have your union data removed.
+*   **Opt-Out:** Stop using the bot or kick it from your server.
+*   **Clear History:** The `/db_save` command is for admins, but you can request a manual data wipe via the support server.
 
 ---
 
 ## 5. 🛡️ Security
 
-* Only essential IDs are stored — no sensitive data.
-* Data is protected using Railway’s built-in security and database management.
-* Abuse prevention systems (like cooldowns and anti-spam) are handled with **temporary identifiers** that reset automatically.
+*   Only essential IDs are stored.
+*   Database access is restricted and secured via Railway.
+*   AI processing is transient; we don't build profiles on individual users.
 
 ---
 
 ## 6. 🔄 Updates
 
-This Privacy Policy may be updated if the bot introduces new features or if Discord changes its requirements. Major updates will be announced in the **official support server**.
+This policy may change as I learn new tricks! Major updates will be announced in the **official support server**.
 
 ---
 
 ## 7. 📞 Contact
 
-If you have any questions, concerns, or requests regarding your data:
+Questions about your data?
 
-➡️ Join the **Official Support Server**: [https://discord.gg/QsKByDNdxt](https://discord.gg/QsKByDNdxt)
-➡️ Contact the developer: **Professor\_Ashe**
+➡️ **Official Support Server:** [Join Here](https://discord.gg/QsKByDNdxt)
+➡️ **Developer:** Professor_Ashe
 
-Would you like me to make this **short & Discord-style (like your TOS)** with emojis and bullet points (so it looks like a proper bot doc), or keep it **more legal-style** for formality?
+*Stay safe, Commander!* 🐰
