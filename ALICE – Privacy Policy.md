@@ -32,8 +32,9 @@ I do not sell your data. However, to provide my services, I interact with these 
 
 *   **Discord:** To send and receive messages (standard bot functionality).
 *   **Railway:** Hosting provider where the bot and database live.
-*   **Google (Gemini AI):** When you ask `@Alice` a question, your query text is sent to Google's Generative AI API for processing.
-    *   *Note: Google may retain data for a limited time to improve their services, subject to their own Privacy Policy.*
+*   **Hugging Face (Llama-3.2-3B):** The primary AI model for Alice's personality and general chat. Your queries are processed by the Llama-3.2-3B model.
+*   **Google (Gemini AI):** Used for supplementary reasoning and web search analysis.
+    *   *Note: Providers may retain data for a limited time to improve their services, subject to their own Privacy Policies.*
 
 ---
 
