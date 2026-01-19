@@ -88,7 +88,7 @@ I am constantly evolving! New features (like better AI or new raid tools) may be
 You can report bugs directly from your server!
 1.  Type `/report_error`
 2.  Fill in the form.
-3.  I'll send it straight to **Professor_Ashe**!
+3.  It wll send it straight to **Professor_Ashe** ME!
 
 ---
 
