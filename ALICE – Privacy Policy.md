@@ -11,7 +11,7 @@ I collect only the **minimal** information needed to function:
 *   **Discord User IDs** – To track cooldowns, manage sessions, and remember your last AI topic (e.g., "talking about Red Hood").
 *   **Role IDs** – To handle region pings (NA, Global, etc.).
 *   **Channel & Message IDs** – To manage interactive boards and clean up messages.
-*   **Union Data** – Damage logs you explicitly upload via `/set_blog` for analysis.
+*   **Persistent Memory & Facts** – Alice uses AI to extract and store permanent facts about you (e.g., your hobbies, nicknames, and game preferences). This is used to build your "Bond" level and personalize your conversations.
 *   **AI Interactions** – When you mention `@Alice`, your message text is processed to generate a response.
 
 👉 **I do NOT collect or store private messages, emails, passwords, or any sensitive personal data.**
@@ -21,8 +21,9 @@ I collect only the **minimal** information needed to function:
 ## 2. 🗄️ Data Storage
 
 *   **Temporary Data:** Most data (like cooldowns and AI conversation context) is stored in temporary memory and resets if the bot restarts.
-*   **Persistent Data:** Union damage logs and server settings are stored in a secure database hosted on **Railway**.
-*   **AI Data:** Your questions to `@Alice` are processed in real-time. We do not permanently archive your chat history.
+*   **Persistent Data:** Server settings and user "Storybook" memories are stored in a secure local database on a private host machine managed by the developer.
+*   **AI Data:** Your questions to `@Alice` are processed in real-time. While we do not archive full chat transcripts, the key facts derived from those chats are saved in your permanent memory profile.
+*   **User Control:** You have full control over your stored facts. You can ask Alice to "show my memories" or "forget [fact]" at any time.
 
 ---
 
@@ -31,27 +32,26 @@ I collect only the **minimal** information needed to function:
 I do not sell your data. However, to provide my services, I interact with these trusted third-party providers:
 
 *   **Discord:** To send and receive messages (standard bot functionality).
-*   **Railway:** Hosting provider where the bot and database live.
-*   **Hugging Face (Llama-3.2-3B):** The primary AI model for Alice's personality and general chat. Your queries are processed by the Llama-3.2-3B model.
-*   **Google (Gemini AI):** Used for supplementary reasoning and web search analysis.
-    *   *Note: Providers may retain data for a limited time to improve their services, subject to their own Privacy Policies.*
+*   **Hugging Face (Meta-Llama-3-8B-Instruct):** The primary AI model for Alice's personality and general chat. Your queries are processed via the Hugging Face API using the Llama-3-8B model.
+
+*Note: Providers may retain data for a limited time to improve their services, subject to their own Privacy Policies.*
 
 ---
 
 ## 4. 🔐 User Control
 
 You have the right to:
-*   **Request Deletion:** Ask to have your union data removed.
+*   **Request Deletion:** Ask to have your memory facts removed.
 *   **Opt-Out:** Stop using the bot or kick it from your server.
-*   **Clear History:** The `/db_save` command is for admins, but you can request a manual data wipe via the support server.
+*   **Clear History:** You can request a manual data wipe via the support server.
 
 ---
 
 ## 5. 🛡️ Security
 
 *   Only essential IDs are stored.
-*   Database access is restricted and secured via Railway.
-*   AI processing is transient; we don't build profiles on individual users.
+*   Database access is restricted and secured on a private host machine.
+*   AI processing is transient; we don't build profiles on individual users outside of the "Bond" system facts you provide.
 
 ---
 
