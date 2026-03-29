@@ -21,15 +21,15 @@ I collect only the **minimal** information needed to function:
 ## 2. 🗄️ Data Storage
 
 *   **Temporary Data:** Most data (like cooldowns and AI conversation context) is stored in temporary memory and resets if the bot restarts.
-*   **Persistent Data:** Server settings and user "Storybook" memories are stored in a secure local database on a private host machine managed by the developer.
+*   **Persistent Data:** Server settings and user "Storybook" memories are stored in a secure local database on a private host machine managed by me, the developer.
 *   **AI Data:** Your questions to `@Alice` are processed in real-time. While we do not archive full chat transcripts, the key facts derived from those chats are saved in your permanent memory profile.
 *   **User Control:** You have full control over your stored facts. You can ask Alice to "show my memories" or "forget [fact]" at any time.
 
 ---
 
-## 3. 📤 Data Sharing & Third Parties
+## 3. 📤 Data Sharing & Third-Party Services
 
-I do not sell your data. However, to provide my services, I interact with these trusted third-party providers:
+I do not sell your data. However, to provide my services, I interact with the following trusted third-party providers:
 
 *   **Discord:** To send and receive messages (standard bot functionality).
 *   **Hugging Face (Meta-Llama-3-8B-Instruct):** The primary AI model for Alice's personality and general chat. Your queries are processed via the Hugging Face API using the Llama-3-8B model.
@@ -50,8 +50,8 @@ You have the right to:
 ## 5. 🛡️ Security
 
 *   Only essential IDs are stored.
-*   Database access is restricted and secured on a private host machine.
-*   AI processing is transient; we don't build profiles on individual users outside of the "Bond" system facts you provide.
+*   **Database Access:** Access is restricted and secured on my private host machine.
+*   **AI Processing:** Processing is transient; I don't build profiles on individual users outside of the "Bond" system facts you provide.
 
 ---
 
