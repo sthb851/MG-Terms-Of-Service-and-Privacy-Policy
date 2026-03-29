@@ -68,7 +68,6 @@ I am constantly evolving! New features (like better AI or new raid tools) may be
 
 ### � Alice AI & Strategy
 *   `@Alice [question]` – Ask for game advice!
-*   `/consult_setup` – Launch the Strategy Hub.
 
 ### 🎮 Co-Op Operations
 *   `/co_op` – Find teammates.
