@@ -8,12 +8,16 @@ Thank you for using the **Alice System** (formerly Nikke Co-op Bot)! I am design
 
 The Alice System is a multi-purpose assistant created to help Commanders:
 *   **Find Teammates:** Quickly form co-op teams based on server regions.
-*   **Manage Unions:** Organize raids, track damage, and compare union performance.
-*   **Get Strategy:** Ask `@Alice` for advice on Nikkes, teams, and bosses (powered by AI).
+*   **Strategy Advice:** Ask `@Alice` for advice on Nikkes, teams, and bosses (powered by AI).
+*   **Memory & Bonding:** Alice uses persistent memory to remember details about you (nicknames, preferences, bond progress). By using the bot, you agree to this data collection.
 
 ---
 
-## 2. 👥 User Eligibility
+## 2. 🛡️ Mandatory Agreement ("The Privaty Rule")
+
+Before you can interact with Alice’s advanced AI features, you must explicitly agree to these Terms of Service and the Privacy Policy. 
+*   Alice will present you with a one-time "Agreement Gate" if you haven't yet accepted.
+*   By clicking "I Agree" or using the `/agree` command, you grant Alice permission to process your messages and store your personal "memory facts."
 
 *   You must be **13 years or older** to use this bot, in accordance with Discord’s Terms of Service.
 *   All users must comply with the rules of the Discord server where the bot is used.
@@ -24,10 +28,10 @@ The Alice System is a multi-purpose assistant created to help Commanders:
 ## 3. 🔐 Data Collection & Privacy
 
 I only store **minimal, non-sensitive** information needed to do my job:
-*   **Discord User IDs** (for cooldowns, session tracking, and damage records).
+*   **Discord User IDs** (for cooldowns, session tracking, and user identification).
 *   **Role IDs** (for region pings).
 *   **Channel and Message IDs** (for interactive boards).
-*   **Union Data** (damage logs provided by users).
+*   **Memory Facts** (non-sensitive details you share with Alice to build your bond).
 
 **I do NOT collect private messages, login credentials, or sensitive personal data.**
 *See the full Privacy Policy for details on AI data usage.*
@@ -64,22 +68,16 @@ I am constantly evolving! New features (like better AI or new raid tools) may be
 
 ### � Alice AI & Strategy
 *   `@Alice [question]` – Ask for game advice!
-*   `/ai_insights` – Get an analysis of your union's performance.
 *   `/consult_setup` – Launch the Strategy Hub.
 
 ### 🎮 Co-Op Operations
 *   `/co_op` – Find teammates.
 *   `/co_op_setup` – Configure co-op channels (Admin).
 
-### ⚔️ Union Management
-*   `/union_raid` – Create raid strategy boards.
-*   `/edit_raid_team` – Update raid teams.
-*   `/set_blog` – Record member damage stats.
-
 ### 🔧 Admin & Utilities
 *   `/set_channel` – Set main output channel.
 *   `/modlog` – Set update notification channel.
-*   `/report_error` – Report bugs directly to the developer.
+*   `/report_error` – Report bugs directly to me.
 
 ---
 
@@ -88,7 +86,7 @@ I am constantly evolving! New features (like better AI or new raid tools) may be
 You can report bugs directly from your server!
 1.  Type `/report_error`
 2.  Fill in the form.
-3.  It wll send it straight to **Professor_Ashe** ME!
+3.  It will send it straight to **Professor_Ashe** (me)!
 
 ---
 
