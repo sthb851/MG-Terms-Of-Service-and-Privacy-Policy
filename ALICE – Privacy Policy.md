@@ -22,7 +22,7 @@ I collect only the **minimal** information needed to function:
 
 *   **Temporary Data:** Most data (like cooldowns and AI conversation context) is stored in temporary memory and resets if the bot restarts.
 *   **Persistent Data:** Server settings and user "Storybook" memories are stored in a secure local database on a private host machine managed by me, the developer.
-*   **AI Data:** Your questions to `@Alice` are processed in real-time. While we do not archive full chat transcripts, the key facts derived from those chats are saved in your permanent memory profile.
+*   **AI Data:** Your questions to `@Alice` are processed in real-time. While i do not archive full chat transcripts, the key facts derived from those chats are saved in your permanent memory profile.
 *   **User Control:** You have full control over your stored facts. You can ask Alice to "show my memories" or "forget [fact]" at any time.
 
 ---
